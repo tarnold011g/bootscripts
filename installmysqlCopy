@@ -1,3 +1,0 @@
-#!/bin/bash
-yum install apt; 
-apt-get install gimp;
